@@ -57,3 +57,4 @@ for tag in sorted_by_value:
             color=color, tag=tag[0], count=tag[1]
         )
     )
+    print(tag[0])
